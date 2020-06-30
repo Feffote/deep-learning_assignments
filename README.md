@@ -1,6 +1,6 @@
 # deep-learning_assignments
 
-Here are all my assigments from the Deep Learning Coursera Specialization
+Here are all my assignments from the [Deep Learning Coursera Specialization](https://www.coursera.org/specializations/deep-learning).
 
 
 
